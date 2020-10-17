@@ -1,8 +1,6 @@
 aaaaa
 bbbbbbbb
 cccccccccc
-
-<<<<<<< .mine
 ddddddd
 eeeeeeee
 ffffffffffff
@@ -11,15 +9,3 @@ eeeeeeeeeee
 master update
 dev update
 
-
-=======
-ddddddd
-eeeeeeee
-ffffffffffff
-gggggggggg
-hhhhhhhhhh
-jjjjjj
-jjjjjjjjjj
-KKKKKKK
-rrrrrrrr
->>>>>>> .theirs
